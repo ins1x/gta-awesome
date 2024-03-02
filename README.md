@@ -1,7 +1,24 @@
-## Additional Libraries
+# Awesome GTA 3D Universe MP
 
-> For quick search use **CTRL + F**
+Awesome list for [Grand Theft Auto 3D Universe](https://gta.fandom.com/wiki/3D_Universe) multiplayers
 
+![SA:MP](https://www.sa-mp.com/images/logo.gif)  
+# **San Andreas Multiplayer (SA:MP)**
+
+### ID Lists
+- [Models](https://dev.prineside.com/gtasa_samp_model_id/)
+- [Interiors](https://pawnokit.ru/ru/interiors_id)
+- [Animations](https://open.mp/docs/scripting/resources/animations) 
+- [Skin](https://sampwiki.blast.hk/wiki/Skins:All) 
+- [Vehicles](https://wiki.multitheftauto.com/wiki/RU/Vehicle_IDs) 
+- [Sounds](https://pawnokit.ru/sounds) 
+- [Keys ID's](https://wiki.pawno-info.ru/SAMP/ID_Keys)
+- [Gametexts](https://pawnokit.ru/ru/gametexts_id)
+- [Mapicons](https://pawnokit.ru/ru/mapicons_id)
+- [Weather](https://pawnokit.ru/ru/weather_id)
+- [Vehicle colors](https://pawnokit.ru/ru/colors_id)
+
+### Server plugins/fixes
 - [YSF](https://github.com/IllidanS4/YSF/wiki/Natives) - pull out maximum possibilities from the server, mainly with memory editing and hooking.
 - [SKY](https://github.com/oscar-broman/SKY/blob/master/SKY.inc) - Slice's fork of kurta999's fork of YSF
 - [Weapon-config](https://github.com/oscar-broman/samp-weapon-config) - This is an include that provides a more consistent and responsive damage system with many new features. It's pretty much plug-and-play if you don't have any filterscripts that interfere with the health or death events.
@@ -14,7 +31,7 @@
 - [samp-util](https://github.com/WoutProvost/samp-util/tree/master/util) - A set of useful functions for SA-MP.
 - [samp-plugin-timerfix](https://github.com/ziggi/samp-plugin-timerfix) - Timerfix provides an improvement (increases the accuracy) to the timers system existent in SA-MP server.
 
-## Mapping/Graphics/Physics
+### Includes Graphics/Physics
 
 - [MapFix](https://github.com/NexiusTailer/MapFix) - Texture bug fixes of the GTA San Andreas map  
 - [3DTryg.inc](https://pro-pawn.ru/showthread.php?17336-3DTryg) - Include professional controls (coordinates / rotations / vectors / arcs / areas / offsets) supported (2D / 3D)
@@ -28,7 +45,7 @@ Model Sizes include but in SQL with standalone database.
 - [Zonenames](https://github.com/Gammix/zonenames.pwn) - Filterscript allows default samp 0.2 function: AllowZoneNames.
 - [StreamerFunction](https://adm.ct8.pl/download/) - Include contain additional functions for Incognito Streamer Plugin
 
-## Network
+### Network and requests lisr
 
 - [IP-API](https://ip-api.com/docs) - IP Geolocation API. Fast, accurate, reliable Free for non-commercial use, no API key required Easy to integrate, available in JSON, XML, CSV, Newline, PHP.
 - [a_http](https://team.sa-mp.com/wiki/HTTP.html) - ends a threaded HTTP request.
@@ -38,14 +55,14 @@ Model Sizes include but in SQL with standalone database.
 - [Network_Stats](https://sampwiki.blast.hk/wiki/Network_Stats)
 - [Query_Mechanism](https://sampwiki.blast.hk/wiki/Query_Mechanism)
 
-## Client-Server Plugins
+### Client-Server plugins
 
 - [samp-audio-plugin](https://github.com/samp-incognito/samp-audio-server-plugin) - Its most useful feature, streaming audio, has been integrated into SA-MP itself, though it can still be used alongside SA-MP. This plugin creates a TCP server that can communicate with external clients to transfer and play back audio files, stream audio files from the Internet, and control in-game radio stations. It has several features.
 - [SA-MP+](https://github.com/Hual/SA-MP-Plus) - A client modification that uses SA-MP's plugin SDK to interact with the server and add new features.
 - [SAMP CEF](https://github.com/ZOTTCE/samp-cef) - This project embeds CEF into SA:MP expanding abilities to express yourself with beauty in-game interfaces using HTML/CSS/ JavaScript. It is a FRAMEWORK (or SDK), not something that you download and use. To be able to create you should have some webdev basics (JS / HTML / CSS). 
 - [KeyListener](https://github.com/CyberMor/keylistener) - Client-server plugin to track the pressing of any key.
 
-## Anticheats/Protection
+### Anticheats/Protection
 
 - [NEX-AC](https://github.com/NexiusTailer/Nex-AC)- is a comprehensive protection which combines powerful anticheat and protection against.
 - [SAMPCAC](https://bitbucket.org/1nsanemapping/rsc/wiki/Sampcac) - anticheat  
@@ -60,7 +77,7 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [SAMP_AC_v2](https://whitetigerswt.github.io/SAMP_AC_v2/)-The time has come where cheaters are no longer in control. Enter SA:MP Client Anti-Cheat Version 2.0. Scroll down to learn more.
 - [query-flood-check](https://github.com/spmn/samp-custom-query-flood-check) - Custom Query Flood Check (CQFC plugin) Write custom protections against query flood.
 
-## DB/Storage
+### DB/Storage
 
 - [mxINI](https://github.com/Open-GTO/mxINI) - Fast INI reader/writer ( mxINI )
 - [samp-whirlpool](https://github.com/Southclaws/samp-whirlpool) - crypto-plugin
@@ -68,7 +85,43 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [FileManager](https://github.com/JaTochNietDan/SA-MP-FileManager) - is a simple plugin which allows you to manage files and folders.
 - [MySQL plugin](https://github.com/pBlueG/SA-MP-MySQL) - The best and most famous MySQL plugin.
 
-## PAWN compiler
+### Mapping guides
+
+- [Detailed Mapping Guide / Tips](https://www.burgershot.gg/showthread.php?tid=990)  
+- [Objects that are not visible to map editors](https://pawn-wiki.ru/index.php?/topic/31763-obekti-kotorie-ne-vidni-redaktoram-kart/) 
+- [TxdGen/Mipmapping San Andreas for PC](https://gtamods.com/wiki/TxdGen/Mipmapping_San_Andreas_for_PC)
+
+## Map Editors
+
+- [SA:MP Texture Studio 2.1 RUS + mtools](https://drive.google.com/file/d/1y-4jfvl5EpzH5FeN2Hji62NBIB88rMkv/view?usp=sharing)
+- [SA:MP Texture Studio 2.0 RUS](https://vk.com/@tip_mapper-texture-studio-20-rus)
+- [SA:MP Texture Studio 1.9 (original)](https://github.com/Pottus/Texture-Studio)  
+- [CR:MP Texture Studio v1.5](https://drive.google.com/file/d/1SZhzQ5jD0-ctlgXKPqj-bBrv6-J9yxki/view)
+- [SA:MP Ultimate Creator](https://github.com/NexiusTailer/Ultimate-Creator)
+- [SA:MP Map Construction](https://drive.google.com/file/d/17gjE54gxbSClJdJGlvbjiJnSnSYowsI0/view)  
+- [MTA MAP Editor + SAMP 0.3.7 Objects & Autoconvert](https://drive.google.com/file/d/16G1SDlE40SqeE4fQBRRSMQ0KfwH64CIn/view)
+- [MTA Mapping tools by KnOwN](https://drive.google.com/file/d/1syvD4i4zp3jZvS7z743bM92wYgDrT1yp/view)
+- [MTA Mappers Community - Tools Bundle](https://drive.google.com/file/d/1TSK5hyPtnC3ZrgBEKNMcHPYE0-mMxHr8/view)
+- [SA:MP MaterialTextPro](https://drive.google.com/file/d/1jug8FazFe_LMf9vaZJFq14afdvKbzR7E/view)
+- [MEd (SA:MP)](https://drive.google.com/file/d/15IRG1nrCSKWJWTyKuiqr0F_u5FAexxWJ/view)
+- [Moomapper 0.90 (VC,GTA3)](https://drive.google.com/file/d/1qg9Zg5tXgNxTmSEDjNc5Qj132zq8utfN/view)
+- [KEd RUS (MOO MAPPER 0.94)](https://drive.google.com/file/d/1I-LqRGxeqJEsRH0Gc_7e2hhR9EV7HfbV/view)
+- [Tube Connector (SA:MP)](https://drive.google.com/file/d/1Bwqzx8SaV3lo6NMdv2Jgz8QPSB_YVy3O/view)
+- [GTA3 Mapper](https://drive.google.com/file/d/1xOCpumjfNM_HUDazKwPE2dcQWeEVsKDT/view)  
+- [SA:MP Fusez's Map Editor v3 (source)](https://drive.google.com/file/d/1547MiIiBIDlHv_ohyqhIWKxumfc9wjPX/view)
+- [SOE - Server Object Editor (SA:MP)](https://drive.google.com/file/d/12luMCaBnAgGPIElFIrVUWhfy48dUHE27/view)
+- [Euryopa (SA:MP)](https://drive.google.com/file/d/1CTgykT0Xj2tmWZJHzKd119A1dWoc1nmL/view)
+
+## Mapping tools guides
+
+- [SA:MP map construction editor tutorial [Video]](https://www.youtube.com/watch?v=uKzjPgQcvU0)
+- [SA:MP Map construction - Textures, Text, Mapping [Video]](https://www.youtube.com/watch?v=HmIrk4mdRqs)
+- [SA:MP How to use drebin's object editor (DrEdit)[Video]](https://www.youtube.com/watch?v=uZQ8Vmk-fhM)
+- [Fusez's SA:MP Map Editor](https://www.youtube.com/watch?v=qCqaDq8GcBs&t=2s)
+- [VisualTexture_Pawn_SA-MP](https://github.com/KaizerHind/VisualTexture_Pawn_SA-MP)
+
+### PAWN compiler
+
 - [sampctl](https://github.com/Southclaws/sampctl) command-line development tool for developing SA:MP Pawn scripts. It includes a package manager, a build tool and a configuration manager.
 - [AMX-Assembly](https://github.com/YashasSamaga/AMX-Assembly-Docs/blob/master/DOCUMENT.md)
 - [Pawn compiler flags](https://github.com/pawn-lang/compiler/wiki/Options)  
@@ -77,9 +130,103 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Pawn Syntax Sublime](https://packagecontrol.io/packages/Pawn%20syntax) - Pawn autocompletes for Sublime Text.
 - [Pawn Syntax VScode](https://marketplace.visualstudio.com/items?itemName=southclaws.vscode-pawn) - Pawn autocompletes for Visual Studio Code.
 
-## ETC
-- [VisualTexture_Pawn_SA-MP](https://github.com/KaizerHind/VisualTexture_Pawn_SA-MP)
+---
+
+![MTA](https://styles.redditmedia.com/t5_2snkj/styles/communityIcon_i4tqrbvgotq71.png?width=256&s=04650f41affea9ccaf0a6676fa5d94d41ff66e2f)
+# **Multi Theft Auto (MTA)**
+
+- [Tips & Tutorials learn from the most experienced mappers](https://web.archive.org/web/20200812184744/https://mta-mappers.com/tips-tutorials/)
+- [Location of Mappers - Help/scripts/tools/resources/mods/tutorial](https://forums.mrgreengaming.com/topic/14776-location-of-mappers-helpscriptstoolsresourcesmodstutorial/)
+- [Editor plugin + Mapping rules for MTA](https://forums.mrgreengaming.com/topic/14734-editor-plugin-mapping-rules-for-mta/)
+- [MTA tools videotutorials](https://mtamapping.weebly.com/tutorials.html)
+- [MTA Mapping tools and scripts](https://mtamapping.weebly.com/mapping-tools.html)
+- [How to create a [DD] map](https://ffs.gg/threads/21181-TUTORIAL-How-to-create-a-DD-map)
+- [How to create a [CTF] map](https://www.youtube.com/watch?v=zgFUqmnqLto)
+- [Roller Coaster Generator](https://wiki.multitheftauto.com/wiki/Roller_Coaster_Generator)
+- [Moving Objects Editor [MOE] ](https://wiki.multitheftauto.com/wiki/Moving_Objects_Editor)
+- [MTA Modding in 3D](https://forum.mtasa.com/topic/119240-mta-modding-in-3d/)
+
+### ID Lists
+- [Models](https://wiki.multitheftauto.com/wiki/Object_IDs)
+- [Interiors](https://wiki.multitheftauto.com/wiki/Interior_IDs)
+- [Weapons](https://wiki.multitheftauto.com/wiki/Weapons)
+- [Vehicles](https://wiki.multitheftauto.com/wiki/Vehicle_IDs)
+- [Weather](https://wiki.multitheftauto.com/wiki/Weather)
+- [Sounds](https://wiki.multitheftauto.com/wiki/Sounds)
+- [Skin](https://wiki.multitheftauto.com/wiki/Character_Skins)
+- [Animations](https://wiki.multitheftauto.com/wiki/Animations)
+
+---
+
+![VC:MP](https://static.vc-mp.org/forum/vcmp_forum_logo.png)
+# **Vice City Multiplayer (VC:MP)**
+
+- [Vice city List of Model IDs of interiors](https://forum.vc-mp.org/?topic=1189.0)
+- [VC:MP objects model IDs](https://samp-pawn.do.am/publ/library_of_vcmp/id/id_modelej/23-1-0-10)
+- [How to use med map editor for gta vice city](https://www.youtube.com/watch?v=n2BlV1IJZYc)
+- [Blender Building to Vice City](https://www.youtube.com/watch?v=X3gtS8bEpPo)
+- [[MVL] How to import objects from GTA](https://forum.vc-mp.org/?topic=7319.0)
+- [VC Interactive Map](https://mapgenie.io/grand-theft-auto-vice-city/maps/vice-city)
 - [VC:MP 0.1c source code](https://github.com/ziggi/vc-mp)
+
+### ID Lists
+- [Models](https://samp-pawn.do.am/publ/library_of_vcmp/id/id_modelej/23-1-0-10)
+- [Interiors](https://forum.vc-mp.org/?topic=1189.0) 
+- [Skin](https://samp-pawn.do.am/publ/library_of_vcmp/id/id_skinov/23-1-0-6) 
+- [Vehicles](https://samp-pawn.do.am/publ/library_of_vcmp/id/id_transports/23-1-0-7) 
+- [Weapons](https://samp-pawn.do.am/publ/library_of_vcmp/id/id_oruzhija/23-1-0-8) |
+---
+
+![UG:MP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROz3hC5CwnfACvITe_fnUCOQT8ZaDRtdzZvA&usqp=CAU)
+# **GTA Undeground Multiplayer (UG:MP)**
+
+- [Список моделей объектов UG-MP](https://gtaundergroundmod.com/pages/ug-mp/documentation/models)
+- [Migrating to ugmp everything you need to know](https://gtaundergroundmod.com/pages/ug-mp/documentation/guide/migrating-to-ugmp-everything-you-need-to-know)
+- [UG-MP DL feature comparison](https://gtaundergroundmod.com/pages/ug-mp/dl)
+- [GF-MP/snippets Weapons, Animations, Teleports, Interiors](https://github.com/GF-MP/snippets)
+- [Coordget - small filterscript to pick up centered coordinates](https://github.com/markski1/ugmp-coordget)
+- [Coordinates converter - converting between different kinds of coordinates](https://devtools.undergroundcnr.com/coords.html)
+- [UG:MP vehicles - All vehicles sorted by location](https://github.com/dark0devx/ugmpsnippets)
+
+### ID Lists
+- [Models](https://gtaundergroundmod.com/pages/ug-mp/documentation/models)
+- [Interiors](https://gtaundergroundmod.com/pages/ug-mp/documentation/interiors)
+- [Skin](https://gtaundergroundmod.com/pages/ug-mp/documentation/skin-ids) 
+- [Vehicles](https://gtaundergroundmod.com/pages/ug-mp/documentation/vehicles) 
+- [Weapons](https://gtaundergroundmod.com/pages/ug-mp/documentation/weapons) 
+- [Weather](https://gtaundergroundmod.com/pages/ug-mp/documentation/weather-ids)
+- [Animations](https://gtaundergroundmod.com/pages/ug-mp/documentation/animations)
+
+---
+
+![GTA III](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0011/7389/brand.gif?itok=unbAK3TI)
+# **GTA III**
+
+- [Grand Theft Auto III Objects Reference](https://gta.mendelsohn.de/Reference3/IDE_index.html)
+- [Programs used to edit GTA3](https://gta.mendelsohn.de/Reference3/Prg_index.html)
+- [Information on GTA3 Data File Formats](https://gta.mendelsohn.de/Reference3/Fil_index.html)
+- [MooMapper tutorial GTA3](https://www.gta-modding.com/vice_city/tutorials/moo_mapper.html)
+
+---
+
+## **3D Modeling**
+| [Blender](https://www.blender.org/) 
+| [Zmodeler](https://www.zmodeler3.com/)
+| [Zbrush](https://pixologic.com/)
+| [Hammer](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor)| 
+
+- [J16D modeling tutorials](https://sites.google.com/view/j16d/p%C3%A1gina-principal/gta-sa-tutorials)
+- [Creating your own object for SA:MP](https://www.youtube.com/watch?v=szZ2Qqu6iYM)
+- [How to Rig Custom Map Objects!](https://www.youtube.com/watch?v=7YImSwnJ0oc)
+- [SA:MP Custom models tutorial - Making a cube and texturing it](https://www.youtube.com/watch?v=qU8eonm6r0s)
+- [GTA SA Modding Tutorial: UV Animation](https://www.youtube.com/watch?v=v5asIIBXOEE&feature=youtu.be)
+- [GTA SA Modding Tutorial: Placing objects on maps](https://www.youtube.com/watch?v=qrdlYpYFqXw)
+- [Convert any 3D vehicle models to GTA:SA format](https://www.youtube.com/watch?v=VT40Ggj0-Rk)
+- [ZMODELER 3 NON ELS TUTORIAL](https://www.youtube.com/watch?v=T9x11bZMGmQ)
+- [Zum Konvertieren von Autos GTASA Zmodeler (DE)](https://www.drakes-legacy.com/index_htm_files/Tutorial,%20GTA%20San%20Andreas,%20ZModeller%202,%20113%20Seiten.pdf)
+- [Zbrush. Basic/ZModeler - part 1](https://www.youtube.com/watch?v=L3kuwzLlKfQ)
+- [ZBrush шпаргалка: 2. Reference view](https://www.youtube.com/watch?v=hxacf8LLwM8)
+- [Hammer Editor Tips and Tricks](https://www.youtube.com/watch?v=47HR2jewQms)
 
 See also:
 
