@@ -50,7 +50,7 @@ Model Sizes include but in SQL with standalone database.
 ### Anticheats/Protection
 
 - [NEX-AC](https://github.com/NexiusTailer/Nex-AC)- is a comprehensive protection which combines powerful anticheat and protection against.
-- [SAMPCAC](https://bitbucket.org/1nsanemapping/rsc/wiki/Sampcac) - anticheat  
+- [SAMPCAC](https://github.com/ins1x/sampcac-docs) - anticheat  
 - [Rakcheat](https://github.com/f0Re3t/rakcheat) - filtering incoming data to the server
 - [Rogue-AC](https://github.com/RogueDrifter/Anti_cheat_pack) - This is a pack of 14 anticheats and 3 helping systems which you can control through callbacks mentioned in the includes and the test.pwn file.
 - [Protection.inc](https://github.com/Open-GTO/protection) - Flexible server protection system (development).
@@ -61,6 +61,8 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [GTA-Open serverside AC](https://github.com/PatrickGTR/gta-open/tree/master/gamemodes/core/anti-cheat)
 - [SAMP_AC_v2](https://whitetigerswt.github.io/SAMP_AC_v2/)-The time has come where cheaters are no longer in control. Enter SA:MP Client Anti-Cheat Version 2.0. Scroll down to learn more.
 - [query-flood-check](https://github.com/spmn/samp-custom-query-flood-check) - Custom Query Flood Check (CQFC plugin) Write custom protections against query flood.
+- [Open-GTO protection](https://github.com/Open-GTO/protection) - Flexible server protection system (development)
+- [alt-V-Anticheat-Guide](https://github.com/MyHwu9508/alt-V-Anticheat-Guide) - This guide is more or less designed to help you find approaches to detect & ban cheaters.
 
 ### DB/Storage
 
@@ -104,7 +106,6 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [SA:MP How to use drebin's object editor (DrEdit)[Video]](https://www.youtube.com/watch?v=uZQ8Vmk-fhM)
 - [Fusez's SA:MP Map Editor](https://www.youtube.com/watch?v=qCqaDq8GcBs&t=2s)
 - [VisualTexture_Pawn_SA-MP](https://github.com/KaizerHind/VisualTexture_Pawn_SA-MP)
-
 
 ### 3D Modeling tools
 - [Blender](https://www.blender.org/) 
@@ -211,7 +212,7 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 ![UG:MP](https://i.ytimg.com/vi/UEFosJMLlWE/mqdefault.jpg)
 # **GTA Undeground Multiplayer (UG:MP)**
 
-- [Список моделей объектов UG-MP](https://gtaundergroundmod.com/pages/ug-mp/documentation/models)
+- [Object modelid UG-MP](https://gtaundergroundmod.com/pages/ug-mp/documentation/models)
 - [Migrating to ugmp everything you need to know](https://gtaundergroundmod.com/pages/ug-mp/documentation/guide/migrating-to-ugmp-everything-you-need-to-know)
 - [UG-MP DL feature comparison](https://gtaundergroundmod.com/pages/ug-mp/dl)
 - [GF-MP/snippets Weapons, Animations, Teleports, Interiors](https://github.com/GF-MP/snippets)
