@@ -2,21 +2,8 @@
 
 Awesome list for [Grand Theft Auto 3D Universe](https://gta.fandom.com/wiki/3D_Universe) multiplayers
 
-![SA:MP](https://www.sa-mp.com/images/logo.gif)  
+![SA:MP](https://github.com/ins1x/useful-samp-stuff/raw/main/filterscripts/samp-logo.gif)  
 # **San Andreas Multiplayer (SA:MP)**
-
-### ID Lists
-- [Models](https://dev.prineside.com/gtasa_samp_model_id/)
-- [Interiors](https://pawnokit.ru/ru/interiors_id)
-- [Animations](https://open.mp/docs/scripting/resources/animations) 
-- [Skin](https://sampwiki.blast.hk/wiki/Skins:All) 
-- [Vehicles](https://wiki.multitheftauto.com/wiki/RU/Vehicle_IDs) 
-- [Sounds](https://pawnokit.ru/sounds) 
-- [Keys ID's](https://wiki.pawno-info.ru/SAMP/ID_Keys)
-- [Gametexts](https://pawnokit.ru/ru/gametexts_id)
-- [Mapicons](https://pawnokit.ru/ru/mapicons_id)
-- [Weather](https://pawnokit.ru/ru/weather_id)
-- [Vehicle colors](https://pawnokit.ru/ru/colors_id)
 
 ### Server plugins/fixes
 - [YSF](https://github.com/IllidanS4/YSF/wiki/Natives) - pull out maximum possibilities from the server, mainly with memory editing and hooking.
@@ -91,7 +78,7 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Objects that are not visible to map editors](https://pawn-wiki.ru/index.php?/topic/31763-obekti-kotorie-ne-vidni-redaktoram-kart/) 
 - [TxdGen/Mipmapping San Andreas for PC](https://gtamods.com/wiki/TxdGen/Mipmapping_San_Andreas_for_PC)
 
-## Map Editors
+### Map Editors
 
 - [SA:MP Texture Studio 2.1 RUS + mtools](https://drive.google.com/file/d/1y-4jfvl5EpzH5FeN2Hji62NBIB88rMkv/view?usp=sharing)
 - [SA:MP Texture Studio 2.0 RUS](https://vk.com/@tip_mapper-texture-studio-20-rus)
@@ -112,13 +99,21 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [SOE - Server Object Editor (SA:MP)](https://drive.google.com/file/d/12luMCaBnAgGPIElFIrVUWhfy48dUHE27/view)
 - [Euryopa (SA:MP)](https://drive.google.com/file/d/1CTgykT0Xj2tmWZJHzKd119A1dWoc1nmL/view)
 
-## Mapping tools guides
+### Mapping tools guides
 
 - [SA:MP map construction editor tutorial [Video]](https://www.youtube.com/watch?v=uKzjPgQcvU0)
 - [SA:MP Map construction - Textures, Text, Mapping [Video]](https://www.youtube.com/watch?v=HmIrk4mdRqs)
 - [SA:MP How to use drebin's object editor (DrEdit)[Video]](https://www.youtube.com/watch?v=uZQ8Vmk-fhM)
 - [Fusez's SA:MP Map Editor](https://www.youtube.com/watch?v=qCqaDq8GcBs&t=2s)
 - [VisualTexture_Pawn_SA-MP](https://github.com/KaizerHind/VisualTexture_Pawn_SA-MP)
+
+### Scripting resources
+
+- [OpenMP. All scripting resources](https://open.mp/docs/scripting/resources)  
+- [OpenMP. Awesome resources](https://open.mp/docs/awesome)  
+- [Memory addresses](https://gtamods.com/wiki/Memory_Addresses_(SA))  
+- [GTA Functions](https://sannybuilder.com/dev/research/gta_funcs.txt)  
+- [String manipulation](https://open.mp/docs/tutorials/stringmanipulation)  
 
 ### PAWN compiler
 
@@ -129,8 +124,20 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Pawn Syntax Notepad++](https://github.com/CaptainBoi/Pawn-Compiler-In-Notepad-) - Pawn autocompletes for Notepad ++
 - [Pawn Syntax Sublime](https://packagecontrol.io/packages/Pawn%20syntax) - Pawn autocompletes for Sublime Text.
 - [Pawn Syntax VScode](https://marketplace.visualstudio.com/items?itemName=southclaws.vscode-pawn) - Pawn autocompletes for Visual Studio Code.
+- [PAWN-Lang reference](https://github.com/pawn-lang/compiler/blob/master/doc/pawn-lang.pdf)  
 
----
+### ID Lists
+- [Models](https://dev.prineside.com/gtasa_samp_model_id/)
+- [Interiors](https://pawnokit.ru/ru/interiors_id)
+- [Animations](https://open.mp/docs/scripting/resources/animations) 
+- [Skin](https://sampwiki.blast.hk/wiki/Skins:All) 
+- [Vehicles](https://wiki.multitheftauto.com/wiki/RU/Vehicle_IDs) 
+- [Sounds](https://pawnokit.ru/sounds) 
+- [Keys ID's](https://wiki.pawno-info.ru/SAMP/ID_Keys)
+- [Gametexts](https://pawnokit.ru/ru/gametexts_id)
+- [Mapicons](https://pawnokit.ru/ru/mapicons_id)
+- [Weather](https://pawnokit.ru/ru/weather_id)
+- [Vehicle colors](https://pawnokit.ru/ru/colors_id)
 
 ![MTA](https://styles.redditmedia.com/t5_2snkj/styles/communityIcon_i4tqrbvgotq71.png?width=256&s=04650f41affea9ccaf0a6676fa5d94d41ff66e2f)
 # **Multi Theft Auto (MTA)**
@@ -156,8 +163,6 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Skin](https://wiki.multitheftauto.com/wiki/Character_Skins)
 - [Animations](https://wiki.multitheftauto.com/wiki/Animations)
 
----
-
 ![VC:MP](https://static.vc-mp.org/forum/vcmp_forum_logo.png)
 # **Vice City Multiplayer (VC:MP)**
 
@@ -175,9 +180,8 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Skin](https://samp-pawn.do.am/publ/library_of_vcmp/id/id_skinov/23-1-0-6) 
 - [Vehicles](https://samp-pawn.do.am/publ/library_of_vcmp/id/id_transports/23-1-0-7) 
 - [Weapons](https://samp-pawn.do.am/publ/library_of_vcmp/id/id_oruzhija/23-1-0-8) |
----
 
-![UG:MP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROz3hC5CwnfACvITe_fnUCOQT8ZaDRtdzZvA&usqp=CAU)
+![UG:MP](https://w7.pngwing.com/pngs/453/395/png-transparent-grand-theft-auto-vice-city-grand-theft-auto-san-andreas-grand-theft-auto-iii-grand-theft-auto-iv-grand-theft-auto-v-gta-miscellaneous-text-logo-thumbnail.png)
 # **GTA Undeground Multiplayer (UG:MP)**
 
 - [Список моделей объектов UG-MP](https://gtaundergroundmod.com/pages/ug-mp/documentation/models)
@@ -197,7 +201,6 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Weather](https://gtaundergroundmod.com/pages/ug-mp/documentation/weather-ids)
 - [Animations](https://gtaundergroundmod.com/pages/ug-mp/documentation/animations)
 
----
 
 ![GTA III](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0011/7389/brand.gif?itok=unbAK3TI)
 # **GTA III**
@@ -206,8 +209,6 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Programs used to edit GTA3](https://gta.mendelsohn.de/Reference3/Prg_index.html)
 - [Information on GTA3 Data File Formats](https://gta.mendelsohn.de/Reference3/Fil_index.html)
 - [MooMapper tutorial GTA3](https://www.gta-modding.com/vice_city/tutorials/moo_mapper.html)
-
----
 
 ## **3D Modeling**
 | [Blender](https://www.blender.org/) 
@@ -227,12 +228,3 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Zbrush. Basic/ZModeler - part 1](https://www.youtube.com/watch?v=L3kuwzLlKfQ)
 - [ZBrush шпаргалка: 2. Reference view](https://www.youtube.com/watch?v=hxacf8LLwM8)
 - [Hammer Editor Tips and Tricks](https://www.youtube.com/watch?v=47HR2jewQms)
-
-See also:
-
-- [OpenMP. All scripting resources](https://open.mp/docs/scripting/resources)  
-- [OpenMP. Awesome resources](https://open.mp/docs/awesome)  
-- [Memory addresses](https://gtamods.com/wiki/Memory_Addresses_(SA))  
-- [GTA Functions](https://sannybuilder.com/dev/research/gta_funcs.txt)  
-- [String manipulation](https://open.mp/docs/tutorials/stringmanipulation)  
-- [PAWN-Lang reference](https://github.com/pawn-lang/compiler/blob/master/doc/pawn-lang.pdf)  
