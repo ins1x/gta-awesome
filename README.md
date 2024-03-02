@@ -107,6 +107,27 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Fusez's SA:MP Map Editor](https://www.youtube.com/watch?v=qCqaDq8GcBs&t=2s)
 - [VisualTexture_Pawn_SA-MP](https://github.com/KaizerHind/VisualTexture_Pawn_SA-MP)
 
+
+### 3D Modeling tools
+- [Blender](https://www.blender.org/) 
+- [Zmodeler](https://www.zmodeler3.com/)
+- [Zbrush](https://pixologic.com/)
+- [Hammer](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor)
+
+## 3D Modeling guides
+- [J16D modeling tutorials](https://sites.google.com/view/j16d/p%C3%A1gina-principal/gta-sa-tutorials)
+- [Creating your own object for SA:MP](https://www.youtube.com/watch?v=szZ2Qqu6iYM)
+- [How to Rig Custom Map Objects!](https://www.youtube.com/watch?v=7YImSwnJ0oc)
+- [SA:MP Custom models tutorial - Making a cube and texturing it](https://www.youtube.com/watch?v=qU8eonm6r0s)
+- [GTA SA Modding Tutorial: UV Animation](https://www.youtube.com/watch?v=v5asIIBXOEE&feature=youtu.be)
+- [GTA SA Modding Tutorial: Placing objects on maps](https://www.youtube.com/watch?v=qrdlYpYFqXw)
+- [Convert any 3D vehicle models to GTA:SA format](https://www.youtube.com/watch?v=VT40Ggj0-Rk)
+- [ZMODELER 3 NON ELS TUTORIAL](https://www.youtube.com/watch?v=T9x11bZMGmQ)
+- [Zum Konvertieren von Autos GTASA Zmodeler (DE)](https://www.drakes-legacy.com/index_htm_files/Tutorial,%20GTA%20San%20Andreas,%20ZModeller%202,%20113%20Seiten.pdf)
+- [Zbrush. Basic/ZModeler - part 1](https://www.youtube.com/watch?v=L3kuwzLlKfQ)
+- [ZBrush шпаргалка: 2. Reference view](https://www.youtube.com/watch?v=hxacf8LLwM8)
+- [Hammer Editor Tips and Tricks](https://www.youtube.com/watch?v=47HR2jewQms)
+
 ### Scripting resources
 
 - [OpenMP. All scripting resources](https://open.mp/docs/scripting/resources)  
@@ -179,9 +200,9 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Interiors](https://forum.vc-mp.org/?topic=1189.0) 
 - [Skin](https://samp-pawn.do.am/publ/library_of_vcmp/id/id_skinov/23-1-0-6) 
 - [Vehicles](https://samp-pawn.do.am/publ/library_of_vcmp/id/id_transports/23-1-0-7) 
-- [Weapons](https://samp-pawn.do.am/publ/library_of_vcmp/id/id_oruzhija/23-1-0-8) |
+- [Weapons](https://samp-pawn.do.am/publ/library_of_vcmp/id/id_oruzhija/23-1-0-8)  
 
-![UG:MP](https://w7.pngwing.com/pngs/453/395/png-transparent-grand-theft-auto-vice-city-grand-theft-auto-san-andreas-grand-theft-auto-iii-grand-theft-auto-iv-grand-theft-auto-v-gta-miscellaneous-text-logo-thumbnail.png)
+![UG:MP](https://i.ytimg.com/vi/UEFosJMLlWE/mqdefault.jpg)
 # **GTA Undeground Multiplayer (UG:MP)**
 
 - [Список моделей объектов UG-MP](https://gtaundergroundmod.com/pages/ug-mp/documentation/models)
@@ -209,22 +230,3 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Programs used to edit GTA3](https://gta.mendelsohn.de/Reference3/Prg_index.html)
 - [Information on GTA3 Data File Formats](https://gta.mendelsohn.de/Reference3/Fil_index.html)
 - [MooMapper tutorial GTA3](https://www.gta-modding.com/vice_city/tutorials/moo_mapper.html)
-
-## **3D Modeling**
-| [Blender](https://www.blender.org/) 
-| [Zmodeler](https://www.zmodeler3.com/)
-| [Zbrush](https://pixologic.com/)
-| [Hammer](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor)| 
-
-- [J16D modeling tutorials](https://sites.google.com/view/j16d/p%C3%A1gina-principal/gta-sa-tutorials)
-- [Creating your own object for SA:MP](https://www.youtube.com/watch?v=szZ2Qqu6iYM)
-- [How to Rig Custom Map Objects!](https://www.youtube.com/watch?v=7YImSwnJ0oc)
-- [SA:MP Custom models tutorial - Making a cube and texturing it](https://www.youtube.com/watch?v=qU8eonm6r0s)
-- [GTA SA Modding Tutorial: UV Animation](https://www.youtube.com/watch?v=v5asIIBXOEE&feature=youtu.be)
-- [GTA SA Modding Tutorial: Placing objects on maps](https://www.youtube.com/watch?v=qrdlYpYFqXw)
-- [Convert any 3D vehicle models to GTA:SA format](https://www.youtube.com/watch?v=VT40Ggj0-Rk)
-- [ZMODELER 3 NON ELS TUTORIAL](https://www.youtube.com/watch?v=T9x11bZMGmQ)
-- [Zum Konvertieren von Autos GTASA Zmodeler (DE)](https://www.drakes-legacy.com/index_htm_files/Tutorial,%20GTA%20San%20Andreas,%20ZModeller%202,%20113%20Seiten.pdf)
-- [Zbrush. Basic/ZModeler - part 1](https://www.youtube.com/watch?v=L3kuwzLlKfQ)
-- [ZBrush шпаргалка: 2. Reference view](https://www.youtube.com/watch?v=hxacf8LLwM8)
-- [Hammer Editor Tips and Tricks](https://www.youtube.com/watch?v=47HR2jewQms)
