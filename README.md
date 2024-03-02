@@ -1,5 +1,3 @@
-# Awesome GTA 3D Universe MP
-
 Awesome list for [Grand Theft Auto 3D Universe](https://gta.fandom.com/wiki/3D_Universe) multiplayers
 
 ![SA:MP](https://github.com/ins1x/useful-samp-stuff/raw/main/filterscripts/samp-logo.gif)  
@@ -114,7 +112,7 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Zbrush](https://pixologic.com/)
 - [Hammer](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor)
 
-## 3D Modeling guides
+### 3D Modeling guides
 - [J16D modeling tutorials](https://sites.google.com/view/j16d/p%C3%A1gina-principal/gta-sa-tutorials)
 - [Creating your own object for SA:MP](https://www.youtube.com/watch?v=szZ2Qqu6iYM)
 - [How to Rig Custom Map Objects!](https://www.youtube.com/watch?v=7YImSwnJ0oc)
@@ -134,7 +132,8 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [OpenMP. Awesome resources](https://open.mp/docs/awesome)  
 - [Memory addresses](https://gtamods.com/wiki/Memory_Addresses_(SA))  
 - [GTA Functions](https://sannybuilder.com/dev/research/gta_funcs.txt)  
-- [String manipulation](https://open.mp/docs/tutorials/stringmanipulation)  
+- [String manipulation](https://open.mp/docs/tutorials/stringmanipulation) 
+- [GDK SA:MP natives](https://zeex.github.io/sampgdk/doc/html/group__natives.html)
 
 ### PAWN compiler
 
@@ -146,6 +145,13 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Pawn Syntax Sublime](https://packagecontrol.io/packages/Pawn%20syntax) - Pawn autocompletes for Sublime Text.
 - [Pawn Syntax VScode](https://marketplace.visualstudio.com/items?itemName=southclaws.vscode-pawn) - Pawn autocompletes for Visual Studio Code.
 - [PAWN-Lang reference](https://github.com/pawn-lang/compiler/blob/master/doc/pawn-lang.pdf)  
+
+### Lua moonloader
+
+- [Moonloader scripting-api](https://wiki.blast.hk/ru/moonloader/scripting-api)
+- [Moonloader functions](https://blast.hk/dokuwiki/moonloader:functions)
+- [Events lua](https://github.com/THE-FYP/SAMP.Lua/blob/master/samp/events.lua)
+- [LUA book [RU] ](https://antirek.github.io/luabook/)
 
 ### ID Lists
 - [Models](https://dev.prineside.com/gtasa_samp_model_id/)
