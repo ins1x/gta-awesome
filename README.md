@@ -135,6 +135,9 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [GTA Functions](https://sannybuilder.com/dev/research/gta_funcs.txt)  
 - [String manipulation](https://open.mp/docs/tutorials/stringmanipulation) 
 - [GDK SA:MP natives](https://zeex.github.io/sampgdk/doc/html/group__natives.html)
+- [Virtual KeyCodes](https://api.farmanager.com/ru/winapi/virtualkeycodes.html)
+- [WebGL vehicle models preview](http://gta.rockstarvision.com/vehicleviewer/#sa/elegant
+- [Junior_Djjr's Workshop](https://forum.mixmods.com.br/f94-workshops/t30-junior_djjr-s-workshop
 
 ### PAWN compiler
 
@@ -146,13 +149,17 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [Pawn Syntax Sublime](https://packagecontrol.io/packages/Pawn%20syntax) - Pawn autocompletes for Sublime Text.
 - [Pawn Syntax VScode](https://marketplace.visualstudio.com/items?itemName=southclaws.vscode-pawn) - Pawn autocompletes for Visual Studio Code.
 - [PAWN-Lang reference](https://github.com/pawn-lang/compiler/blob/master/doc/pawn-lang.pdf)  
+- [Known Runtime/Compiler PAWN Bugs](https://sampforum.blast.hk/showthread.php?tid=570960) 
 
 ### Lua moonloader
 
 - [Moonloader scripting-api](https://wiki.blast.hk/ru/moonloader/scripting-api)
 - [Moonloader functions](https://blast.hk/dokuwiki/moonloader:functions)
 - [Events lua](https://github.com/THE-FYP/SAMP.Lua/blob/master/samp/events.lua)
-- [LUA book [RU] ](https://antirek.github.io/luabook/)
+- [LUA book (RU)](https://antirek.github.io/luabook/)
+- [Lua memory module (RU)](https://wiki.blast.hk/moonloader/lua/memory)
+- [Lua style guide (luarocks](https://github.com/luarocks/lua-style-guide) - This style guides lists the coding conventions
+- [ImGui wiki](https://mbm-documentation.readthedocs.io/en/latest/imgui.html#getclipboardtext
 
 ### ID Lists
 - [Models](https://dev.prineside.com/gtasa_samp_model_id/)
