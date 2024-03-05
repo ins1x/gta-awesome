@@ -63,6 +63,7 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [query-flood-check](https://github.com/spmn/samp-custom-query-flood-check) - Custom Query Flood Check (CQFC plugin) Write custom protections against query flood.
 - [Open-GTO protection](https://github.com/Open-GTO/protection) - Flexible server protection system (development)
 - [alt-V-Anticheat-Guide](https://github.com/MyHwu9508/alt-V-Anticheat-Guide) - This guide is more or less designed to help you find approaches to detect & ban cheaters.
+- [ModSA sources](https://github.com/BlastHackNet/mod_sa/tree/master/src) - s0beit sources
 
 ### DB/Storage
 
@@ -136,8 +137,9 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [String manipulation](https://open.mp/docs/tutorials/stringmanipulation) 
 - [GDK SA:MP natives](https://zeex.github.io/sampgdk/doc/html/group__natives.html)
 - [Virtual KeyCodes](https://api.farmanager.com/ru/winapi/virtualkeycodes.html)
-- [WebGL vehicle models preview](http://gta.rockstarvision.com/vehicleviewer/#sa/elegant
-- [Junior_Djjr's Workshop](https://forum.mixmods.com.br/f94-workshops/t30-junior_djjr-s-workshop
+- [WebGL vehicle models preview](http://gta.rockstarvision.com/vehicleviewer/#sa/elegant)
+- [Junior_Djjr's Workshop](https://forum.mixmods.com.br/f94-workshops/t30-junior_djjr-s-workshop)
+- [SA:MP UDF AHK](https://github.com/paul-phoenix/SAMP-UDF-for-AutoHotKey/blob/master/SAMP.ahk)
 
 ### PAWN compiler
 
@@ -159,7 +161,7 @@ BustAim is a feature rich anti-aimbot include which tries to detect players who 
 - [LUA book (RU)](https://antirek.github.io/luabook/)
 - [Lua memory module (RU)](https://wiki.blast.hk/moonloader/lua/memory)
 - [Lua style guide (luarocks](https://github.com/luarocks/lua-style-guide) - This style guides lists the coding conventions
-- [ImGui wiki](https://mbm-documentation.readthedocs.io/en/latest/imgui.html#getclipboardtext
+- [ImGui wiki](https://mbm-documentation.readthedocs.io/en/latest/imgui.html#getclipboardtext)
 
 ### ID Lists
 - [Models](https://dev.prineside.com/gtasa_samp_model_id/)
